@@ -5,6 +5,7 @@ define (require) ->
   baseviews = require '_BaseViews'
   Router = require 'Router'
   routes = require 'routes'
+  vent = require 'vent'
 
   # expose jquery global for dev
   window.$ = require 'jquery'

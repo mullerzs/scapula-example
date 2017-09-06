@@ -17,6 +17,7 @@
     "express": "^4.15.4",
     "handlebars": "^4.0.10",
     "jquery": "^3.2.1",
+    "raw-loader": "^0.5.1",
     "scapula": "git+https://github.com/mullerzs/scapula.git",
     "underscore": "^1.8.3"
   }
