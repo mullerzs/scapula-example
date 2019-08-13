@@ -12,6 +12,7 @@ define (require) ->
 
   require 'restsync'
   require 'jquerynt'
+  require 'hbshelpers'
 
   app =
     router: new Router
